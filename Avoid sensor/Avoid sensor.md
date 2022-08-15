@@ -11,9 +11,9 @@ Los sensores infrarrojos para evitar obstáculos son sensores pequeños y econó
 </ul>
 
 ## Sensor
-![](https://github.com/CarlosRuiz02/LaserEmit/blob/main/Laser%20Emit/LaserEmit.png)
+![](https://github.com/CarlosRuiz02/Avoid_Sensor/blob/main/Avoid%20sensor/img/Avoid%20Sensor.jpg)
 ## Diagrama
-![](https://github.com/CarlosRuiz02/LaserEmit/blob/main/Laser%20Emit/Laser%20Emit%20Diagrama.PNG)
+![](https://github.com/CarlosRuiz02/Avoid_Sensor/blob/main/Avoid%20sensor/img/Avoid%20sensor%20diagrama.webp)
 
 
 ## Código
